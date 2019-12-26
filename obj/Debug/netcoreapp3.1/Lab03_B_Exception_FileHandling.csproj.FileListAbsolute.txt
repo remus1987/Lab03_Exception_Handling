@@ -1,0 +1,11 @@
+C:\Users\Remus Iftimie\Personal_GitHub\Lab03_B_Exception_FileHandling\bin\Debug\netcoreapp3.1\Lab03_B_Exception_FileHandling.exe
+C:\Users\Remus Iftimie\Personal_GitHub\Lab03_B_Exception_FileHandling\bin\Debug\netcoreapp3.1\Lab03_B_Exception_FileHandling.deps.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab03_B_Exception_FileHandling\bin\Debug\netcoreapp3.1\Lab03_B_Exception_FileHandling.runtimeconfig.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab03_B_Exception_FileHandling\bin\Debug\netcoreapp3.1\Lab03_B_Exception_FileHandling.runtimeconfig.dev.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab03_B_Exception_FileHandling\bin\Debug\netcoreapp3.1\Lab03_B_Exception_FileHandling.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab03_B_Exception_FileHandling\bin\Debug\netcoreapp3.1\Lab03_B_Exception_FileHandling.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\Lab03_B_Exception_FileHandling\obj\Debug\netcoreapp3.1\Lab03_B_Exception_FileHandling.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Lab03_B_Exception_FileHandling\obj\Debug\netcoreapp3.1\Lab03_B_Exception_FileHandling.AssemblyInfoInputs.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Lab03_B_Exception_FileHandling\obj\Debug\netcoreapp3.1\Lab03_B_Exception_FileHandling.AssemblyInfo.cs
+C:\Users\Remus Iftimie\Personal_GitHub\Lab03_B_Exception_FileHandling\obj\Debug\netcoreapp3.1\Lab03_B_Exception_FileHandling.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab03_B_Exception_FileHandling\obj\Debug\netcoreapp3.1\Lab03_B_Exception_FileHandling.pdb
